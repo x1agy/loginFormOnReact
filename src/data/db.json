@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "admin",
+      "password": "admin",
+      "name": "Ahmed"
+    },
+    {
+      "id": 2,
+      "login": "quest",
+      "password": "123",
+      "name": "User"
+    },
+    {
+      "login": "questsecond",
+      "password": "7454633m",
+      "name": "Ебейший",
+      "id": 3
+    },
+    {
+      "login": "questthird",
+      "password": "7454633m",
+      "name": "Ебейший",
+      "id": 4
+    },
+    {
+      "login": "questfourth",
+      "password": "7454633m",
+      "name": "Ебейший",
+      "id": 5
+    }
+  ]
+}
